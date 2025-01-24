@@ -38,10 +38,10 @@ export const PROJECTS = [
     link: "https://github.com/XZanderU/VirtualR",
   },
   {
-    name: "NutriTrack",
-    description: "Track your meals and calories with smart AI suggestions",
+    name: "UserManagementAPI",
+    description: "A RESTful API for user management, built with .NET Core and C#. Features include CRUD operations, Swagger documentation, and database integration using Entity Framework Core. Perfect for learning and showcasing backend development skills.",
     image: projects2,
-    link: "https://github.com/your-github/nutritrack",
+    link: "https://github.com/XZanderU/UserManagementAPI",
   },
   {
     name: "HairRevive",
